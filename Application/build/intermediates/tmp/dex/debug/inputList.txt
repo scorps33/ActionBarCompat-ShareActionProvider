@@ -1,0 +1,7 @@
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/classes/debug
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-8463a8d2bd2cc201804d53404b189d300f3d604b.jar
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-c97357b712d47fe397f757a73349813b5211cf45.jar
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-1920fa74a77a4c87acb5a28e0538c24d68e5f80c.jar
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-637688bce2922298657708949f3d6dd8b63c3f4a.jar
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-a8192a1a088e8de682e4658d0f805a3cf8bc9483.jar
+/Applications/Android Studio/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-25a1dc18fe61198e856078de75ed79811adfc807.jar
